@@ -1,0 +1,45 @@
+{
+ "intern": [
+  "private/intern/01.jpg"
+ ],
+ "originals": [
+  "private/originals/01.jpg",
+  "private/originals/02.jpg",
+  "private/originals/03.jpg",
+  "private/originals/04.jpg",
+  "private/originals/05.jpg",
+  "private/originals/06.jpg",
+  "private/originals/07.jpg",
+  "private/originals/08.jpg",
+  "private/originals/09.jpg",
+  "private/originals/10.jpg",
+  "private/originals/11.jpg",
+  "private/originals/12.jpg",
+  "private/originals/13.jpg",
+  "private/originals/14.jpg",
+  "private/originals/15.jpg",
+  "private/originals/16.jpg",
+  "private/originals/17.jpg",
+  "private/originals/18.jpg",
+  "private/originals/19.jpg",
+  "private/originals/20.jpg",
+  "private/originals/21.jpg",
+  "private/originals/22.jpg",
+  "private/originals/23.jpg"
+ ],
+ "esim": [
+  "private/esim/01.jpg"
+ ],
+ "project": [
+  "private/project/01.jpg",
+  "private/project/02.jpg",
+  "private/project/03.jpg",
+  "private/project/04.jpg",
+  "private/project/05.jpg"
+ ],
+ "resume": [
+  "private/resume/01.jpg",
+  "private/resume/02.jpg",
+  "private/resume/03.jpg"
+ ]
+}
