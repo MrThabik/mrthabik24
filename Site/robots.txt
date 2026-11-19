@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://mrthabik24.vercel.app/sitemap.xml
